@@ -50,6 +50,12 @@
         0,
         0
       ],
+      "scale": [
+        0,
+        0.7071067811865475,
+        0,
+        0.7071067811865475
+      ],
       "physics": true,
       "start_url": "https://selenguney.github.io/ss/map.glb"
     }
