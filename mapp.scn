@@ -21,20 +21,6 @@
         0,
         -1
       ],
-      "start_url": "https://webaverse.github.io/skybox/index.js"
-    },
-    {
-      "position": [
-        4,
-        0,
-        1
-      ],
-      "quaternion": [
-        0,
-        0.7071067811865475,
-        0,
-        0.7071067811865475
-      ],
       "start_url": "https://selenguney.github.io/ss/wwwww.vrm",
       "dynamic": true
     },
